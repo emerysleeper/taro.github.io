@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[6],{1637:function(n,e,l){"use strict";l.r(e);var t=function(){var n=this,e=n._self._c;return e("div",[n._v("Матрица Александрова")])},u=[],a={name:"Alexandrov"},o=a,r=l("2877"),s=Object(r["a"])(o,t,u,!1,null,null,null);e["default"]=s.exports}}]);
