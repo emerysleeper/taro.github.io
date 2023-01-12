@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[10],{c49d:function(n,a,e){"use strict";e.r(a);var o=function(){var n=this,a=n._self._c;return a("div",[n._v("Романова (вкладка)")])},t=[],u={name:"Romanova"},c=u,l=e("2877"),s=Object(l["a"])(c,o,t,!1,null,null,null);a["default"]=s.exports}}]);

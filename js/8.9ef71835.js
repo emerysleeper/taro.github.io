@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[8],{f2e1:function(n,e,t){"use strict";t.r(e);var l=function(){var n=this,e=n._self._c;return e("div",[n._v("Вкладка с планетами")])},u=[],a={name:"Planet"},s=a,c=t("2877"),i=Object(c["a"])(s,l,u,!1,null,null,null);e["default"]=i.exports}}]);
